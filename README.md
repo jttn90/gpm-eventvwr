@@ -107,5 +107,5 @@ Finally, we have a look at Event Viewer. Certain logs, like Security logs, may o
   <img src="https://github.com/user-attachments/assets/c29ac1ac-86ee-425c-b89e-e57088b6dd88" height="80%" width="80%" alt="observing logs in event viewer"/>
 </p>
 <p>
-We can see our 5 failed logon attempts in a row. Afterwards, we unlocked the account and was then able to logon again as a regular user.
+We can see our 5 failed logon attempts in a row. Afterwards, we can unlock the account and then logon again as a regular user.
 </p>
